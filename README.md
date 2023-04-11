@@ -31,10 +31,10 @@ For the Hyperion you will need the following components:
     - [BNO08x](https://docs.slimevr.dev/components-guide.html)
 - [Switch](https://docs.slimevr.dev/components-guide.html) (*SS22F32 is what the docs suggest, SS12D00G3 is smaller and looks better for this case*)
     - [SS12D00G3](https://www.aliexpress.com/wholesale?SearchText=SS12D00G3)
-    - [SS22F32](https://www.aliexpress.com/item/32975535599.html)
+    - [SS22F32](https://www.aliexpress.com/wholesale?SearchText=SS22F32)
 - [Battery](https://docs.slimevr.dev/components-guide.html) (*804040 is what the docs suggest, 503759 is smaller and usually higher capacity*)
-    - [804040](https://www.aliexpress.com/item/33021202630.html)
-    - [503759](https://www.aliexpress.com/item/1005003257130562.html)
+    - [804040](https://www.aliexpress.com/wholesale?SearchText=804040)
+    - [503759](https://www.aliexpress.com/wholesale?SearchText=503759)
 
 
 You can also order these parts elsewhere through sites like Amazon with a higher markup which may arrive much faster for a higher cost.
@@ -61,6 +61,7 @@ To clarify some of the terminology, the file name may have a reference to the fo
 
 - *AUX*: This part has an opening for a ribbon/JST cable to an Extension.  
 - *BNO08x*: This means the part is meant for BNO08x or MPU 9250/6500 chips
+- *BMI160*: This means the part is meant for BMI160 chips
 - *503759*: This means the part is meant for batteries that are 5x37x59mm (based on that batteries sizing).
 - *SS22F32*: This indicates the part was designed for the switches mentioned in the docs.
 - *Slime*: This part has the SlimeVR logo on it, mostly for the lid.
@@ -166,7 +167,7 @@ Here are some useful and fun resources:
 
 ## Contributors
 I want to put out a sincere thank you to all the people that have helped and tested/measured out various items for this project.  
-Thank you: Pjesek, Dinnerbone, Don, Sythe, CalliePepper and Lemming.
+Thank you: Pjesek, Dinnerbone, Don, Sythe, CalliePepper, Lemming and SuchMeme.
 
 ## Contact
 If you experience any problems with your Hyperion or have any questions/suggestions?
